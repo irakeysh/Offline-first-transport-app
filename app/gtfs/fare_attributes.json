@@ -1,0 +1,254 @@
+[
+  {
+    "fare_id": 182406,
+    "price": 3.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182407,
+    "price": 5.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182408,
+    "price": 3.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182409,
+    "price": 5.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182410,
+    "price": 3.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182411,
+    "price": 5.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182412,
+    "price": 3.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182413,
+    "price": 5.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182414,
+    "price": 3.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182415,
+    "price": 5.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182416,
+    "price": 3.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182417,
+    "price": 7.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182418,
+    "price": 9.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182419,
+    "price": 7.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182420,
+    "price": 11.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182421,
+    "price": 9.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182422,
+    "price": 7.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182423,
+    "price": 11.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182424,
+    "price": 9.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182425,
+    "price": 7.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182426,
+    "price": 5.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182427,
+    "price": 13.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182428,
+    "price": 11.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182429,
+    "price": 9.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182430,
+    "price": 7.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182431,
+    "price": 5.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182432,
+    "price": 5.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182433,
+    "price": 7.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182434,
+    "price": 5.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182435,
+    "price": 9.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182436,
+    "price": 7.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182437,
+    "price": 5.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182438,
+    "price": 13.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182439,
+    "price": 11.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182440,
+    "price": 9.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  },
+  {
+    "fare_id": 182441,
+    "price": 7.75,
+    "currency_type": "USD",
+    "payment_method": 1,
+    "transfers": 0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "route_id": "SHUTTLE",
+    "agency_id": "CT",
+    "route_short_name": "",
+    "route_long_name": "SHUTTLE",
+    "route_type": 3,
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "agency_id": "CT",
+    "route_short_name": "LOCAL",
+    "route_long_name": "",
+    "route_type": 2,
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "LIMITED",
+    "agency_id": "CT",
+    "route_short_name": "",
+    "route_long_name": "LIMITED",
+    "route_type": 2,
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "agency_id": "CT",
+    "route_short_name": "",
+    "route_long_name": "BABY BULLET",
+    "route_type": 2,
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "SX",
+    "agency_id": "CT",
+    "route_short_name": "SX",
+    "route_long_name": "",
+    "route_type": 3,
+    "route_color": "",
+    "route_text_color": ""
+  }
+]

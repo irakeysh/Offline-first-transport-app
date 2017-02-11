@@ -1,0 +1,52 @@
+<!doctype html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>CalTrain</title>
+        <meta name="description" content="Responsive Web App with Bootstrap and AngularJS">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+        <link rel="icon" type="image/ico" href="favicon.ico">
+        <link rel="stylesheet" href="css/styles-1.0.2.min.css">
+        <link rel="stylesheet" href="css/font-face.css">
+
+    </head>
+    <body data-ng-app="app"
+          id="app"
+          class="app"
+          data-custom-page
+          data-off-canvas-nav
+          data-ng-controller="AppCtrl"
+          data-ng-class=" { 'layout-boxed': main.layout === 'boxed',
+                            'nav-collapsed-min': main.isMenuCollapsed
+          } ">
+
+        <header data-ng-include=" 'pages/shared/header.html' "
+                 id="header"
+                 class="header-container "
+                 data-ng-class="{ 'header-fixed': main.fixedHeader,
+                                  'bg-white': ['11','12','13','14','15','16','21'].indexOf(main.skin) >= 0,
+                                  'bg-dark': main.skin === '31',
+                                  'bg-primary': ['22','32'].indexOf(main.skin) >= 0,
+                                  'bg-success': ['23','33'].indexOf(main.skin) >= 0,
+                                  'bg-info-alt': ['24','34'].indexOf(main.skin) >= 0,
+                                  'bg-warning': ['25','35'].indexOf(main.skin) >= 0,
+                                  'bg-danger': ['26','36'].indexOf(main.skin) >= 0
+                 }"></header>
+
+        <div class="main-container"
+             data-ng-class="{ 'app-nav-horizontal': main.menu === 'horizontal' }">
+            <div id="content" class="content-container">
+                <section data-ng-view class="view-container {{main.pageTransition.class}}"></section>
+            </div>
+
+            <footer data-ng-include=" 'pages/shared/footer.html' "
+                    id="footer"
+                    class="app-footer">
+            </footer>
+        </div>
+
+        <script src="js/scripts-1.0.6.min.js"></script>
+    </body>
+</html>

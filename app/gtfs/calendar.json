@@ -1,0 +1,98 @@
+[
+  {
+    "service_id": 4929,
+    "monday": 1,
+    "tuesday": 1,
+    "wednesday": 1,
+    "thursday": 1,
+    "friday": 1,
+    "saturday": 0,
+    "sunday": 0,
+    "start_date": 20121001,
+    "end_date": 20190211
+  },
+  {
+    "service_id": 4930,
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 1,
+    "sunday": 0,
+    "start_date": 20121001,
+    "end_date": 20190211
+  },
+  {
+    "service_id": 4951,
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 1,
+    "sunday": 1,
+    "start_date": 20121001,
+    "end_date": 20190211
+  },
+  {
+    "service_id": 9134,
+    "monday": 1,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 0,
+    "sunday": 0,
+    "start_date": 20160215,
+    "end_date": 20160215
+  },
+  {
+    "service_id": 8775,
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 1,
+    "sunday": 0,
+    "start_date": 20151219,
+    "end_date": 20151219
+  },
+  {
+    "service_id": 4956,
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 0,
+    "sunday": 1,
+    "start_date": 20160207,
+    "end_date": 20160207
+  },
+  {
+    "service_id": 5191,
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 1,
+    "sunday": 0,
+    "start_date": 20160206,
+    "end_date": 20160206
+  },
+  {
+    "service_id": 1964,
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 1,
+    "friday": 0,
+    "saturday": 0,
+    "sunday": 0,
+    "start_date": 20151224,
+    "end_date": 20151224
+  }
+]

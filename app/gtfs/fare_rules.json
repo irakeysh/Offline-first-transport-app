@@ -1,0 +1,254 @@
+[
+  {
+    "fare_id": 182406,
+    "route_id": "",
+    "origin_id": 3329,
+    "destination_id": 3329,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182407,
+    "route_id": "",
+    "origin_id": 3329,
+    "destination_id": 3330,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182408,
+    "route_id": "",
+    "origin_id": 3330,
+    "destination_id": 3330,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182409,
+    "route_id": "",
+    "origin_id": 3330,
+    "destination_id": 3331,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182410,
+    "route_id": "",
+    "origin_id": 3331,
+    "destination_id": 3331,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182411,
+    "route_id": "",
+    "origin_id": 3331,
+    "destination_id": 3332,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182412,
+    "route_id": "",
+    "origin_id": 3332,
+    "destination_id": 3332,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182413,
+    "route_id": "",
+    "origin_id": 3332,
+    "destination_id": 3333,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182414,
+    "route_id": "",
+    "origin_id": 3333,
+    "destination_id": 3333,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182415,
+    "route_id": "",
+    "origin_id": 3333,
+    "destination_id": 3334,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182416,
+    "route_id": "",
+    "origin_id": 3334,
+    "destination_id": 3334,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182417,
+    "route_id": "",
+    "origin_id": 3329,
+    "destination_id": 3331,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182418,
+    "route_id": "",
+    "origin_id": 3329,
+    "destination_id": 3332,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182419,
+    "route_id": "",
+    "origin_id": 3330,
+    "destination_id": 3332,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182420,
+    "route_id": "",
+    "origin_id": 3329,
+    "destination_id": 3333,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182421,
+    "route_id": "",
+    "origin_id": 3330,
+    "destination_id": 3333,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182422,
+    "route_id": "",
+    "origin_id": 3331,
+    "destination_id": 3333,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182423,
+    "route_id": "",
+    "origin_id": 3334,
+    "destination_id": 3330,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182424,
+    "route_id": "",
+    "origin_id": 3333,
+    "destination_id": 3330,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182425,
+    "route_id": "",
+    "origin_id": 3332,
+    "destination_id": 3330,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182426,
+    "route_id": "",
+    "origin_id": 3331,
+    "destination_id": 3330,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182427,
+    "route_id": "",
+    "origin_id": 3334,
+    "destination_id": 3329,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182428,
+    "route_id": "",
+    "origin_id": 3333,
+    "destination_id": 3329,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182429,
+    "route_id": "",
+    "origin_id": 3332,
+    "destination_id": 3329,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182430,
+    "route_id": "",
+    "origin_id": 3331,
+    "destination_id": 3329,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182431,
+    "route_id": "",
+    "origin_id": 3330,
+    "destination_id": 3329,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182432,
+    "route_id": "",
+    "origin_id": 3334,
+    "destination_id": 3333,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182433,
+    "route_id": "",
+    "origin_id": 3334,
+    "destination_id": 3332,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182434,
+    "route_id": "",
+    "origin_id": 3333,
+    "destination_id": 3332,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182435,
+    "route_id": "",
+    "origin_id": 3334,
+    "destination_id": 3331,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182436,
+    "route_id": "",
+    "origin_id": 3333,
+    "destination_id": 3331,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182437,
+    "route_id": "",
+    "origin_id": 3332,
+    "destination_id": 3331,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182438,
+    "route_id": "",
+    "origin_id": 3329,
+    "destination_id": 3334,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182439,
+    "route_id": "",
+    "origin_id": 3330,
+    "destination_id": 3334,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182440,
+    "route_id": "",
+    "origin_id": 3331,
+    "destination_id": 3334,
+    "contains_id": ""
+  },
+  {
+    "fare_id": 182441,
+    "route_id": "",
+    "origin_id": 3332,
+    "destination_id": 3334,
+    "contains_id": ""
+  }
+]

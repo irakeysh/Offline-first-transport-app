@@ -1,0 +1,24 @@
+{
+  "name": "caltrain",
+  "version": "1.1.0",
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-animate": "~1.4.0",
+    "angular-aria": "~1.4.0",
+    "font-awesome": "~4.6.0",
+    "angular-bootstrap": "~1.1.0",
+    "firebase": "^3.0.3",
+    "angularfire": "~1.1.2",
+    "idbwrapper": "^1.7.0"
+  },
+  "devDependencies": {
+    "bourbon": "~4.2.0",
+    "bootstrap-sass-official": "~3.3.0"
+  },
+  "resolutions": {
+    "angular": "~1.4.0",
+    "firebase": "^3.0.3"
+  }
+}

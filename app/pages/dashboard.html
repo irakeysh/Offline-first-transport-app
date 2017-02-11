@@ -1,0 +1,136 @@
+<div class="page">
+
+  <div class="ui-timline-container col-md-8 col-sm-12">
+      <section class="ui-timeline">
+        <article class="tl-item">
+            <div class="tl-body">
+                <div class="tl-entry time-btn">
+                    <div class="tl-time">{{vm.stationA && vm.stationA.stop_name || 'Departure Station'}}</div>
+
+                    <a class="tl-icon btn-icon-round btn-icon btn-icon-thin btn-info btn-pointAB hidden-sm hidden-xs"
+                       tooltip-placement="top"
+                       uib-tooltip="Click here!"
+                       tooltip-append-to-body="true"
+                       ng-click="vm.pointA()">A</a>
+
+                    <a class="tl-icon btn-icon-round btn-icon btn-icon-thin btn-info btn-pointAB visible-sm visible-xs"
+                       ng-click="vm.pointA()">A</a>
+
+                    <div class="tl-content" ng-show="vm.departure">
+                        <form role="form" class="ng-pristine ng-valid">
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Train Station</label><br>
+                                <span class="ui-select" name="stopSelect" ng-model="vm.stationA">
+                                  <select ng-model="vm.stationA"
+                                          ng-options="stop.stop_name for stop in vm.stops | orderBy:'stop_name'"
+                                          ng-change="vm.pointA()">
+                                    <option value=""> <i class="fa fa-train" aria-hidden="true"></i> -- choose station --</option>
+                                  </select>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </article>
+
+        <article class="tl-item alt" ng-repeat="conection in vm.conections">
+            <div class="tl-body">
+                <div class="tl-entry time-btn">
+                    <div class="tl-time"><span>{{conection.stop_name}}</span></div>
+                    <div class="tl-icon btn-icon-round btn-icon btn-icon-thin btn-danger"><i class="fa fa-train"></i></div>
+                </div>
+            </div>
+        </article>
+
+          <article class="tl-item">
+              <div class="tl-body">
+                  <div class="tl-entry">
+
+                      <div class="tl-time">{{vm.stationB && vm.stationB.stop_name || 'Arrival Station'}}</div>
+
+                      <a class="tl-icon btn-icon-round btn-icon btn-icon-thin btn-info btn-pointAB hidden-sm hidden-xs"
+                         tooltip-placement="bottom"
+                         uib-tooltip="Click here!"
+                         tooltip-append-to-body="true"
+                         ng-click="vm.pointB()">B</a>
+
+                      <a class="tl-icon btn-icon-round btn-icon btn-icon-thin btn-info btn-pointAB visible-sm visible-xs"
+                         ng-click="vm.pointB()">B</a>
+
+                      <div class="tl-content" ng-show="vm.arrival">
+                          <form role="form" class="ng-pristine ng-valid">
+                              <div class="form-group">
+                                  <label for="exampleInputEmail1">Train Station</label><br>
+                                  <span class="ui-select">
+                                    <select ng-model="vm.stationB"
+                                            ng-options="stop.stop_name disable when vm.disableOption(stop) for stop in vm.stops | orderBy:'stop_name'"
+                                            ng-change="vm.pointB()">
+                                      <option value="">-- choose station --</option>
+                                    </select>
+                                  </span>
+                              </div>
+                          </form>
+                      </div>
+                  </div>
+              </div>
+          </article>
+      </section>
+  </div>
+
+  <br>
+  <br>
+
+  <div class="col-md-4 col-sm-12">
+
+    <div class="text-center btn-filter" ng-show="vm.stationA && vm.stationB">
+      <h4>{{vm.way}}</h4>
+
+      <div class="btn-group">
+          <button type="button"
+                  ng-class="{'active': vm.category == 'weekday'}"
+                  class="btn btn-line-danger btn-no-focus"
+                  ng-click="vm.setCategory('weekday')">Weekday</button>
+          <button type="button"
+                  ng-class="{'active': vm.category == 'weekend'}"
+                  class="btn btn-line-danger btn-no-focus"
+                  ng-click="vm.setCategory('weekend')">Weekend</button>
+          <button type="button"
+                  ng-class="{'active': vm.category == 'shuttle'}"
+                  class="btn btn-line-danger btn-no-focus"
+                  ng-click="vm.setCategory('shuttle')">Shuttle</button>
+      </div>
+    </div>
+
+    <table class="table">
+        <thead>
+          <tr>
+            <th ng-show="vm.category == 'weekday' || vm.category == 'weekend'">Train</th>
+            <th ng-show="vm.category == 'shuttle'">Bus</th>
+            <th>Start</th>
+            <th></th>
+            <th>Arrival</th>
+          </tr>
+        </thead>
+        <tbody ng-show="vm.stationA && vm.stationB">
+          <tr ng-repeat="stop_t in vm.stop_times_filtered | orderBy:'position'" ng-show="stop_t.category == vm.category">
+              <td>
+                <span class="label label-info">
+                  <i class="fa fa-bus" aria-hidden="true" ng-show="vm.category == 'shuttle'"></i>
+                  <i class="fa fa-train" aria-hidden="true" ng-show="vm.category == 'weekday' || vm.category == 'weekend'"></i>&nbsp;{{stop_t.train}}
+                </span>
+              </td>
+              <td>
+                <strong><span>{{ stop_t.arrival | limitTo : 5 }}</span></strong>
+                <span class="am-pm">{{ stop_t.arrival | limitTo : 2 : 5}}</span>
+              </td>
+              <td><span class="trip-duration">{{ stop_t.duration}}min</span></td>
+              <td>
+                <strong><span>{{ stop_t.departure | limitTo : 5 }}</span></strong>
+                <span class="am-pm">{{ stop_t.departure | limitTo : 2 : 5}}</span>
+              </td>
+          </tr>
+        </tbody>
+      </table>
+  </div>
+</div>

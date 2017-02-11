@@ -1,0 +1,11 @@
+.sass-cache
+.tmp
+node_modules
+bower_components
+dist/css
+dist/images
+dist/js
+dist/pages
+dist/gtfs
+dist/service-worker.js
+dist/fonts

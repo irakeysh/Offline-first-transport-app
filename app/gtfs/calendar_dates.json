@@ -1,0 +1,17 @@
+[
+  {
+    "service_id": 4929,
+    "date": 20160215,
+    "exception_type": 2
+  },
+  {
+    "service_id": 4951,
+    "date": 20160215,
+    "exception_type": 1
+  },
+  {
+    "service_id": 4930,
+    "date": 20160215,
+    "exception_type": 1
+  }
+]

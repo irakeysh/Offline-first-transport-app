@@ -1,0 +1,69 @@
+.time-btn{
+    padding-bottom: 50px
+}
+
+.btn-pointAB {
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+.nav-collapsed-min .app-footer {
+    margin-left: 0px;
+}
+
+.ui-timline-container {
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+.my-title{
+  font-family: 'Rancho', cursive;
+}
+
+.btn-no-focus:focus {
+    outline: none !important;
+}
+
+.btn-filter {
+    MARGIN-BOTTOM: 20px;
+}
+
+@media (min-width: 375px) and (max-width: 767px) {
+  .my-title-large {
+    display: none;
+  }
+
+  .ui-timline-container {
+      margin-bottom: 20px;
+      padding-right: 0px;
+  }
+}
+
+@media (min-width: 768px){
+  .my-title-large{
+    font-family: 'Rancho', cursive;
+    font-size: xx-large;
+    margin-left: 25%;
+  }
+}
+
+.app>.header-container.header-fixed+.main-container {
+  padding-top: 25px;
+}
+
+.am-pm{
+  color: #b0b0b1;
+  font-size: 11px;
+}
+
+.trip-duration {
+  color: #b0b0b1;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #e87352;
+  font-size: 11px;
+}
+
+.way-title {
+  color: #e87352;
+}

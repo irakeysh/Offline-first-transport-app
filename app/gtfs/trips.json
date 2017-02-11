@@ -1,0 +1,3992 @@
+[
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997283",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449096",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997285",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997286",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997287",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997288",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997289",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997290",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997291",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997292",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997293",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997294",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997295",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997296",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997297",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997298",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997299",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997300",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997301",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997302",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320540",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320541",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320542",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320543",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320544",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320545",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320546",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320547",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320548",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320549",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320550",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320551",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320552",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320553",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320554",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320555",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449097",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449098",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449099",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449100",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449101",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449102",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449103",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449104",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449105",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449106",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449107",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449108",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449109",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449110",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449111",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997284",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449053",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320581",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449055",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449056",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449057",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449058",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449059",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449060",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449061",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449062",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449063",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449064",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449065",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320569",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320570",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320571",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320572",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320573",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320574",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320575",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320576",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320577",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320578",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997324",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997325",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997326",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997327",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997328",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997329",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997330",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997331",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997332",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997318",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997319",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997321",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997322",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 9134,
+    "trip_id": "RTD8997323",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320579",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 4951,
+    "trip_id": "RTD6320580",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SHUTTLE",
+    "service_id": 1964,
+    "trip_id": "RTD8449054",
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 147,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 147
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 151,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 151
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 155,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 155
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 191,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 191
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 143,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 143
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 199,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 199
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 135,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 135
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 101,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 101
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 139,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 139
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 193,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 193
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 103,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 103
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 197,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 197
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 195,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 195
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 159,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 159
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 102,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 102
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 134,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 134
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 138,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 138
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 142,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 142
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 198,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 198
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 150,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 150
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 152,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 152
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 190,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 190
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 196,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 196
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 146,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 146
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 104,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 104
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 194,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 194
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 192,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 192
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4929,
+    "trip_id": 156,
+    "trip_headsign": "GILROY STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 156
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741560",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 449,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741562",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741563",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741564",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741565",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741566",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741567",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741568",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741569",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741570",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741571",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741572",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741573",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741574",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741575",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449068",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449069",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449070",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449071",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449072",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449073",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449074",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449075",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449076",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449077",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449078",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449079",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449080",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449081",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4930,
+    "trip_id": 421,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4930,
+    "trip_id": 451,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 423,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 425,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 427,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 429,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 431,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 433,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 435,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 437,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 439,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 441,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 443,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 445,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 447,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741561",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741592",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4930,
+    "trip_id": 454,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741594",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741595",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741596",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741597",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741598",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741599",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741600",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741601",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741602",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741603",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741604",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741605",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741606",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741607",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449082",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449083",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449084",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449085",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449086",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449087",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449088",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449089",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449090",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449091",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449092",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449093",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449094",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 1964,
+    "trip_id": "RTD8449095",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 426,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 428,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 430,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 432,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 434,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 436,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 422,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 424,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 438,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 440,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 442,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 444,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 446,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4951,
+    "trip_id": 448,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 4930,
+    "trip_id": 450,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 5191,
+    "trip_id": "RTD8741593",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "424b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "422b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "428b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "430b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "432b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "434b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "436b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "438b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "440b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "442b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "444b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "446b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "448b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "450b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "454b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "426b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "421a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "451a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "425a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "427a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "429a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "431a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "433a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "435a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "437a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "439a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "441a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "443a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "445a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "447a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "449a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "423a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "421b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "451b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "425b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "427b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "429b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "431b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "433b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "435b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "437b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "439b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "441b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "443b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "445b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "447b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "449b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "423b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "422a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "454a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "426a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "428a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "430a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "432a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "434a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "436a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "438a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "440a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "442a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "444a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "446a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "448a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "450a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LOCAL",
+    "service_id": 8775,
+    "trip_id": "424a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 9134,
+    "trip_id": 503,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 9134,
+    "trip_id": 502,
+    "trip_headsign": "GILROY STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 9134,
+    "trip_id": 505,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 9134,
+    "trip_id": 504,
+    "trip_headsign": "GILROY STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 9134,
+    "trip_id": 501,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 9134,
+    "trip_id": 508,
+    "trip_headsign": "GILROY STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 9134,
+    "trip_id": 506,
+    "trip_headsign": "GILROY STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 207,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 207
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 211,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 211
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 231,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 231
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 215,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 215
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 217,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 217
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 221,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 221
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 227,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 227
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 233,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 233
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 237,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 237
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 257,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 257
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 261,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 261
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 269,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 269
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 279,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 279
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 225,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 225
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 277,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 277
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 267,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 267
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 263,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 263
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 273,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 273
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 283,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 283
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 287,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 287
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 289,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 289
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 206,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 206
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 208,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 208
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 218,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 218
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 228,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 228
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 236,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 236
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 254,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 254
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 258,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 258
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 210,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 210
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 226,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 226
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 216,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 216
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 220,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 220
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 230,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 230
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 262,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 262
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 272,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 272
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 282,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 282
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 264,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 264
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 284,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 284
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 268,
+    "trip_headsign": "GILROY STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 268
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 274,
+    "trip_headsign": "GILROY STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 274
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 278,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 278
+  },
+  {
+    "route_id": "LIMITED",
+    "service_id": 4929,
+    "trip_id": 288,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 288
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 305,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 305
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 313,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 313
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 323,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 323
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 309,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 309
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 319,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 319
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 329,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 329
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 365,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 365
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 375,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 375
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 385,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 385
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 371,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 371
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 381,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 381
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 312,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 312
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 322,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 322
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 332,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 332
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 314,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 314
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 324,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 324
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 360,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 360
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 370,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 370
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 380,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 380
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 366,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 366
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 376,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 376
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4929,
+    "trip_id": 386,
+    "trip_headsign": "TAMIEN STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": 386
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 1964,
+    "trip_id": "RTD8449051",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4951,
+    "trip_id": 803,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4951,
+    "trip_id": 801,
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 1964,
+    "trip_id": "RTD8449052",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4951,
+    "trip_id": 802,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 1964,
+    "trip_id": "RTD8449067",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 1964,
+    "trip_id": "RTD8449066",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 4951,
+    "trip_id": 804,
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 8775,
+    "trip_id": "803a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 8775,
+    "trip_id": "801a",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 8775,
+    "trip_id": "803b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 8775,
+    "trip_id": "801b",
+    "trip_headsign": "SAN FRANCISCO STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 8775,
+    "trip_id": "804a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 8775,
+    "trip_id": "802a",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 8775,
+    "trip_id": "804b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "BABY BULLET",
+    "service_id": 8775,
+    "trip_id": "802b",
+    "trip_headsign": "DIRIDON STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "421ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "451ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "425ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "427ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "801ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "429ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "431ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "433ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "435ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "437ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "439ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "441ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "803ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "443ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "445ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "447ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "449ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "423ab",
+    "trip_headsign": "CALTRAIN - BURLINGAME STATION",
+    "direction_id": 0,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "422ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "454ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "426ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "428ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "802ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "430ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "432ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "434ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "436ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "438ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "440ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "442ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "804ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "444ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "446ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "448ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "450ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  },
+  {
+    "route_id": "SX",
+    "service_id": 8775,
+    "trip_id": "424ab",
+    "trip_headsign": "CALTRAIN - HAYWARD PARK STATION",
+    "direction_id": 1,
+    "block_id": "",
+    "shape_id": "",
+    "trip_short_name": ""
+  }
+]
